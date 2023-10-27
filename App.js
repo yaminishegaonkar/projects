@@ -6,6 +6,8 @@ export default function App() {
     <View style={styles.container}>
       <Text>abc</Text>
       <Text>new code </Text>
+
+      <Text>new code </Text> <Text>new code </Text> <Text>new code </Text> <Text>new code </Text> <Text>new code </Text> <Text>new code </Text>
     </View>
   );
 }
