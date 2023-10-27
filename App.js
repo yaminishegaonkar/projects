@@ -1,13 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import Props from "./ReactNative_Props/Components/Props";
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>abc</Text>
-      <Text>new code </Text>
-      <Text>new code </Text>
-      <Text>new code </Text> <Text>new code </Text> <Text>new code </Text> <Text>new code </Text> <Text>new code </Text> <Text>new code </Text>
+       <Props />
     </View>
   );
 }
