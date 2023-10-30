@@ -5,7 +5,7 @@ import Props from "./ReactNative_Props/Components/Props";
 export default function App() {
   return (
     <View style={styles.container}>
-       <Props />
+      <Props />
     </View>
   );
 }
